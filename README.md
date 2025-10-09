@@ -1,4 +1,3 @@
-# WebDesign_Lab05
 # 🏡 HostelSta
 
 *HostelSta* is a student-focused web project designed to make finding hostels easier, faster, and more reliable.  
