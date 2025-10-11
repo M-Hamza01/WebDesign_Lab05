@@ -27,7 +27,7 @@ HTML | CSS | JavaScript
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<M-Hamza01>/HostelSta.git
+   git clone https://github.com/<M-Hamza01>/WebDesign_Lab05.git
 
 2. Open the folder and launch:
 
