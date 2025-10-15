@@ -3,11 +3,11 @@
 *HostelSta* is a student-focused web project designed to make finding hostels easier, faster, and more reliable.  
 It connects students with verified hostels, ensuring accurate and unbiased information.
 
-> Bridging the gap between students and trusted accommodation.
+> Bridging the gap between students and trusted accommodations.
 
 ## 🎯 Purpose
 
-Many students face difficulty finding good hostels most are local and lack online presence.  
+Many students face difficulty in finding good hostels most are local and lack online presence.  
 *HostelSta* aims to collect verified hostel data and present it in one trusted platform.
 
 ## ⚙ Features
